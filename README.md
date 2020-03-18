@@ -1,2 +1,2 @@
 # ssp
-Run index file. That all
+Run index file. That is all
